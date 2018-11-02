@@ -26,5 +26,6 @@ public class Calculator{
 	public float min(float a, float b){
 		return Math.min(a,b);
 		
+		
 	}
 }
